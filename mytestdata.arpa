@@ -1,0 +1,1148 @@
+\data\
+ngram 1=241
+ngram 2=427
+ngram 3=468
+
+\1-grams:
+-2.6904075	<unk>	0
+0	<s>	-0.12232989
+-2.3821862	</s>	0
+-1.651003	a	-0.03769738
+-2.586166	break-in	-0.03769738
+-2.0817575	at	-0.009122036
+-1.4119636	the	-0.079873525
+-2.3821862	u.s.	-0.03769738
+-2.2260582	justice	-0.009122036
+-2.2260582	department	-0.133015
+-1.8871307	's	-0.03769738
+-2.586166	world	-0.03769738
+-2.586166	wide	-0.03769738
+-1.7532128	web	-0.19351482
+-2.2260582	site	-0.03769738
+-2.3821862	last	-0.03769738
+-2.586166	week	-0.03769738
+-2.586166	highlighted	-0.03769738
+-2.586166	internet	-0.03769738
+-2.586166	continued	-0.03769738
+-2.586166	vulnerability	-0.03769738
+-1.699108	to	-0.08805297
+-1.8150303	hackers	-0.03769738
+-1.3864654	.	-0.68432444
+-2.586166	unidentified	-0.03769738
+-2.586166	gained	-0.03769738
+-2.3821862	access	-0.03769738
+-2.3821862	page	-0.03769738
+-1.9736316	on	-0.0146886725
+-2.586166	august	-0.03769738
+-2.586166	16	-0.03769738
+-1.7532128	and	-0.03769738
+-2.586166	replaced	-0.03769738
+-2.586166	it	-0.03769738
+-2.3821862	with	-0.03769738
+-2.586166	hate-filled	-0.03769738
+-2.586166	diatribe	-0.03769738
+-2.586166	labelled	-0.03769738
+-2.2260582	``	-0.03769738
+-1.5322243	of	-0.028703028
+-2.586166	injustice	-0.03769738
+-2.2260582	''	-0.03769738
+-2.0817575	that	-0.03769738
+-2.3821862	included	-0.03769738
+-2.586166	swastika	-0.03769738
+-2.586166	picture	-0.03769738
+-2.586166	adolf	-0.03769738
+-2.586166	hitler	-0.03769738
+-2.2260582	officials	-0.03769738
+-2.586166	quickly	-0.03769738
+-2.586166	pulled	-0.03769738
+-2.586166	plug	-0.03769738
+-2.3821862	vandalised	-0.03769738
+-1.4390527	,	-0.0791311
+-2.2260582	but	-0.03769738
+-1.7532128	security	-0.14502244
+-2.3821862	flaws	-0.03769738
+-2.586166	allowed	-0.03769738
+-2.586166	gain	-0.03769738
+-2.586166	entry	-0.03769738
+-2.586166	likely	-0.03769738
+-2.586166	exist	-0.03769738
+-2.2260582	in	-0.03769738
+-2.586166	thousands	-0.03769738
+-2.2260582	other	-0.03769738
+-2.586166	corporate	-0.03769738
+-2.586166	government	-0.03769738
+-2.0817575	sites	-0.133015
+-2.586166	experts	-0.03769738
+-1.7532128	said	-0.19453108
+-2.586166	vast	-0.03769738
+-2.586166	majority	-0.03769738
+-2.0817575	are	-0.03769738
+-2.586166	vulnerable	-0.03769738
+-2.3821862	richard	-0.3323925
+-2.586166	power	-0.03769738
+-2.586166	senior	-0.03769738
+-2.586166	analyst	-0.03769738
+-2.586166	computer	-0.03769738
+-2.586166	institute	-0.03769738
+-2.586166	should	-0.03769738
+-2.3821862	n't	-0.03769738
+-2.586166	be	-0.03769738
+-2.586166	singled	-0.03769738
+-2.3821862	out	-0.3323925
+-2.586166	compromised	-0.03769738
+-2.3821862	was	-0.03769738
+-2.2260582	not	-0.03769738
+-2.586166	connected	-0.03769738
+-2.586166	any	-0.03769738
+-2.3821862	computers	-0.03769738
+-2.586166	containing	-0.03769738
+-2.586166	sensitive	-0.03769738
+-2.586166	files	-0.03769738
+-2.586166	(	-0.03769738
+-2.586166	http	-0.03769738
+-2.586166	:	-0.03769738
+-2.586166	//www.usdoj.gov	-0.03769738
+-2.586166	)	-0.03769738
+-2.586166	copies	-0.03769738
+-2.586166	press	-0.03769738
+-2.586166	releases	-0.03769738
+-2.586166	speeches	-0.03769738
+-2.586166	publicly	-0.03769738
+-2.586166	available	-0.03769738
+-2.2260582	information	-0.21060966
+-2.586166	breach	-0.03769738
+-2.0817575	is	-0.03769738
+-2.586166	just	-0.03769738
+-2.586166	like	-0.03769738
+-2.586166	graffiti	-0.03769738
+-2.586166	outside	-0.03769738
+-2.586166	building	-0.03769738
+-2.586166	spokesman	-0.03769738
+-2.586166	bert	-0.03769738
+-2.586166	brandenburg	-0.03769738
+-2.586166	organisations	-0.03769738
+-2.3821862	have	-0.03769738
+-2.3821862	been	-0.03769738
+-2.586166	targeted	-0.03769738
+-2.586166	past	-0.03769738
+-2.586166	year	-0.03769738
+-2.586166	nation	-0.03769738
+-2.586166	islam	-0.03769738
+-2.586166	million	-0.03769738
+-2.586166	man	-0.03769738
+-2.586166	march	-0.03769738
+-2.586166	make	-0.03769738
+-2.586166	250,000	-0.03769738
+-2.586166	attempts	-0.03769738
+-2.586166	annually	-0.03769738
+-2.586166	break	-0.03769738
+-2.586166	into	-0.03769738
+-2.586166	military	-0.03769738
+-2.586166	according	-0.03769738
+-2.586166	general	-0.03769738
+-2.586166	accounting	-0.03769738
+-2.586166	office	-0.03769738
+-2.586166	report	-0.03769738
+-2.3821862	windows	-0.3323925
+-2.3821862	magazine	-0.03769738
+-2.586166	recently	-0.03769738
+-2.586166	found	-0.03769738
+-2.586166	dozen	-0.03769738
+-2.586166	major	-0.03769738
+-2.3821862	corporations	-0.03769738
+-2.586166	spectacularly	-0.03769738
+-2.586166	insecure	-0.03769738
+-2.586166	editor	-0.03769738
+-2.586166	mike	-0.03769738
+-2.3821862	elgan	-0.3323925
+-2.586166	relying	-0.03769738
+-2.586166	holes	-0.03769738
+-2.586166	had	-0.03769738
+-2.586166	documented	-0.03769738
+-2.0817575	by	-0.03769738
+-2.586166	software	-0.03769738
+-2.586166	manufacturers	-0.03769738
+-2.586166	months	-0.03769738
+-2.586166	earlier	-0.03769738
+-2.586166	specialists	-0.03769738
+-2.586166	were	-0.03769738
+-2.586166	able	-0.03769738
+-2.586166	various	-0.03769738
+-2.586166	degrees	-0.03769738
+-2.586166	unauthorised	-0.03769738
+-2.586166	different	-0.03769738
+-2.586166	who	-0.03769738
+-2.586166	exploiting	-0.03769738
+-2.3821862	some	-0.03769738
+-2.586166	same	-0.03769738
+-2.586166	motivated	-0.03769738
+-2.586166	anger	-0.03769738
+-2.586166	over	-0.03769738
+-2.586166	growth	-0.03769738
+-2.586166	commercialization	-0.03769738
+-2.586166	common	-0.03769738
+-2.586166	theme	-0.03769738
+-2.586166	fed	-0.03769738
+-2.586166	up	-0.03769738
+-2.586166	non-hackers	-0.03769738
+-2.586166	he	-0.03769738
+-2.586166	battle	-0.03769738
+-2.586166	completely	-0.03769738
+-2.586166	hopeless	-0.03769738
+-2.3821862	you	-0.3323925
+-2.586166	can	-0.03769738
+-2.586166	secure	-0.03769738
+-2.586166	there	-0.03769738
+-2.586166	all	-0.03769738
+-2.586166	kinds	-0.03769738
+-2.3821862	measures	-0.03769738
+-2.3821862	take	-0.03769738
+-2.586166	most	-0.03769738
+-2.586166	institutions	-0.03769738
+-2.586166	do	-0.03769738
+-2.3821862	them	-0.03769738
+-2.586166	simply	-0.03769738
+-2.586166	because	-0.03769738
+-2.586166	nothing	-0.03769738
+-2.586166	bad	-0.03769738
+-2.586166	has	-0.03769738
+-2.586166	happened	-0.03769738
+-2.586166	yet	-0.03769738
+-2.586166	using	-0.03769738
+-2.3821862	multiple	-0.03769738
+-2.586166	layers	-0.03769738
+-2.586166	well	-0.03769738
+-2.586166	beyond	-0.03769738
+-2.586166	simple	-0.03769738
+-2.586166	password	-0.03769738
+-2.586166	protection	-0.03769738
+-2.586166	keep	-0.03769738
+-2.586166	one	-0.03769738
+-2.586166	mentioned	-0.03769738
+-2.3821862	fidelity	-0.03769738
+-2.586166	investments	-0.03769738
+-2.586166	advertises	-0.03769738
+-2.586166	its	-0.03769738
+-2.586166	mutual	-0.03769738
+-2.586166	funds	-0.03769738
+-2.586166	disseminates	-0.03769738
+-2.586166	about	-0.03769738
+-2.586166	personal	-0.03769738
+-2.586166	finance	-0.03769738
+-2.586166	does	-0.03769738
+-2.586166	contain	-0.03769738
+-2.586166	confidential	-0.03769738
+-2.586166	customer	-0.03769738
+-2.586166	immediately	-0.03769738
+-2.586166	closed	-0.03769738
+-2.586166	loophole	-0.03769738
+-2.586166	identified	-0.03769738
+-2.3821862	spokeswoman	-0.03769738
+-2.586166	previously	-0.03769738
+-2.586166	place	-0.03769738
+-2.586166	would	-0.03769738
+-2.586166	prevented	-0.03769738
+-2.586166	despite	-0.03769738
+-2.586166	hole	-0.03769738
+-2.586166	added	-0.03769738
+
+\2-grams:
+-0.13212016	. </s>	0
+-1.804649	'' </s>	0
+-1.6951166	<s> a	-0.0055918545
+-1.5610706	to a	-0.0055918545
+-1.5104468	and a	-0.0055918545
+-1.2072653	with a	-0.0055918545
+-1.4642582	`` a	-0.0055918545
+-1.5637966	of a	-0.0055918545
+-1.2072653	included a	-0.0055918545
+-1.6232146	, a	-0.0055918545
+-0.9845588	secure a	-0.0055918545
+-0.9845588	prevented a	-0.0055918545
+-1.9709543	a break-in	-0.0055918545
+-1.0422196	break-in at	-0.0055918545
+-1.3083375	access at	-0.0055918545
+-1.4521155	flaws at	-0.0055918545
+-1.0422196	analyst at	-0.0055918545
+-1.5342935	<s> the	-0.005591881
+-1.4210856	at the	-0.005591881
+-0.9257326	highlighted the	-0.0055918545
+-1.3887075	to the	-0.0055918545
+-1.4266522	on the	-0.005591881
+-0.9257326	labelled the	-0.0055918545
+-1.3065733	`` the	-0.005591881
+-1.4406667	of the	-0.005591881
+-0.9257326	pulled the	-0.0055918545
+-1.4910947	, the	-0.005591881
+-1.1991272	but the	-0.0055918545
+-1.1991272	in the	-0.0055918545
+-1.4687269	said the	-0.0055918545
+-1.2495359	by the	-0.0055918545
+-0.9257326	over the	-0.0055918545
+-0.9257326	closed the	-0.0055918545
+-0.9257326	despite the	-0.0055918545
+-2.199428	the u.s.	-0.0055918545
+-1.0607616	into u.s.	-0.0055918545
+-1.3254125	<s> justice	-0.0055918545
+-2.1073039	the justice	-0.0055918545
+-1.3277311	u.s. justice	-0.0055918545
+-2.1073039	the department	-0.0055918545
+-2.2351804	justice department	-0.005591881
+-1.7143325	`` department	-0.0055918545
+-0.6507603	department 's	-0.0055918545
+-1.4022682	internet 's	-0.0055918545
+-1.0221367	islam 's	-0.0055918545
+-1.4857852	magazine 's	-0.0055918545
+-1.0221367	there 's	-0.0055918545
+-1.4022682	fidelity 's	-0.0055918545
+-1.8460373	's world	-0.0055918545
+-1.0679402	world wide	-0.0055918545
+-1.6108652	a web	-0.0055918545
+-1.4194167	at web	-0.0055918545
+-1.2875904	the web	-0.0055918545
+-1.5518905	's web	-0.0055918545
+-1.0029414	wide web	-0.0055918545
+-1.0029414	government web	-0.0055918545
+-1.0029414	compromised web	-0.0055918545
+-1.0029414	march web	-0.0055918545
+-1.7613178	's site	-0.0055918545
+-0.645838	web site	-0.09969695
+-1.0526205	one site	-0.0055918545
+-2.1900904	<s> last	-0.0055918545
+-1.7530161	site last	-0.0055918545
+-1.3570608	last week	-0.0055918545
+-1.0679402	week highlighted	-0.0055918545
+-2.6660395	the internet	-0.005591881
+-1.8460373	's continued	-0.0055918545
+-1.0679402	continued vulnerability	-0.0055918545
+-0.9936529	vulnerability to	-0.0055918545
+-1.5198691	hackers to	-0.0055918545
+-1.2225603	access to	-0.0055918545
+-1.6603577	, to	-0.0055918545
+-0.9936529	connected to	-0.0055918545
+-0.9936529	annually to	-0.0055918545
+-0.9936529	according to	-0.0055918545
+-0.9936529	able to	-0.0055918545
+-0.9936529	happened to	-0.0055918545
+-1.6627791	to hackers	-0.0055918545
+-1.012433	unidentified hackers	-0.0055918545
+-1.6120846	and hackers	-0.0055918545
+-1.4581444	that hackers	-0.0055918545
+-1.012433	allowed hackers	-0.0055918545
+-1.7207868	said hackers	-0.0055918545
+-1.012433	keep hackers	-0.0055918545
+-1.1846224	internet .	-0.0055918545
+-1.3051008	hackers .	-0.0055918545
+-0.9179434	hitler .	-0.0055918545
+-1.1011285	vandalised .	-0.0055918545
+-1.3291621	sites .	-0.0055918545
+-0.4442096	said .	-0.30103
+-0.9179434	institute .	-0.0055918545
+-0.25653785	out .	-0.0055918545
+-0.9179434	files .	-0.0055918545
+-0.41811296	information .	-0.29550916
+-0.9179434	past .	-0.0055918545
+-0.9179434	report .	-0.0055918545
+-1.1011285	corporations .	-0.0055918545
+-0.9179434	hopeless .	-0.0055918545
+-1.1011285	take .	-0.0055918545
+-0.9179434	yet .	-0.0055918545
+-0.9179434	investments .	-0.0055918545
+-0.9179434	added .	-0.0055918545
+-2.2771816	<s> unidentified	-0.0055918545
+-1.8460373	hackers gained	-0.0055918545
+-1.0607616	gained access	-0.0055918545
+-1.0607616	unauthorised access	-0.0055918545
+-1.9246608	web page	-0.0055918545
+-1.3431993	vandalised page	-0.0055918545
+-1.2897731	page on	-0.0055918545
+-1.032062	plug on	-0.0055918545
+-1.032062	graffiti on	-0.0055918545
+-1.032062	relying on	-0.0055918545
+-1.032062	non-hackers on	-0.0055918545
+-1.7181689	on august	-0.0055918545
+-1.0679402	august 16	-0.0055918545
+-1.7787373	<s> and	-0.0055918545
+-1.0029414	16 and	-0.0055918545
+-1.0029414	swastika and	-0.0055918545
+-1.0029414	corporate and	-0.0055918545
+-1.0029414	speeches and	-0.0055918545
+-1.2384136	corporations and	-0.0055918545
+-1.0029414	growth and	-0.0055918545
+-1.0029414	funds and	-0.0055918545
+-1.8938025	and replaced	-0.0055918545
+-1.0679402	replaced it	-0.0055918545
+-1.0607616	it with	-0.0055918545
+-1.0607616	up with	-0.0055918545
+-1.9709543	a hate-filled	-0.0055918545
+-1.0679402	hate-filled diatribe	-0.0055918545
+-1.0679402	diatribe labelled	-0.0055918545
+-0.9048884	<s> ``	-0.0027869274
+-2.1073039	the ``	-0.0055918545
+-1.3277311	breach ``	-0.0055918545
+-1.417443	department of	-0.0055918545
+-0.95836633	picture of	-0.0055918545
+-0.95836633	thousands of	-0.0055918545
+-1.417443	sites of	-0.0055918545
+-0.95836633	majority of	-0.0055918545
+-0.95836633	copies of	-0.0055918545
+-0.95836633	outside of	-0.0055918545
+-0.95836633	nation of	-0.0055918545
+-0.95836633	degrees of	-0.0055918545
+-1.1643689	some of	-0.0055918545
+-0.95836633	commercialization of	-0.0055918545
+-0.95836633	kinds of	-0.0055918545
+-0.95836633	layers of	-0.0055918545
+-2.054394	of injustice	-0.0055918545
+-1.2401241	. ''	-0.29550916
+-1.0526205	injustice ''	-0.0055918545
+-0.8862159	, ''	-0.0055918545
+-1.7105768	'' that	-0.0055918545
+-1.4521155	flaws that	-0.0055918545
+-1.5469798	is that	-0.0055918545
+-1.0422196	holes that	-0.0055918545
+-1.6092745	that included	-0.0055918545
+-1.0607616	) included	-0.0055918545
+-1.9709543	a swastika	-0.0055918545
+-1.9709543	a picture	-0.0055918545
+-2.054394	of adolf	-0.0055918545
+-1.0679402	adolf hitler	-0.0055918545
+-1.5750558	justice officials	-0.0055918545
+-1.6777258	department officials	-0.0055918545
+-1.4793632	fidelity officials	-0.0055918545
+-1.5215604	officials quickly	-0.0055918545
+-1.0679402	quickly pulled	-0.0055918545
+-2.2989094	the plug	-0.0055918545
+-2.199428	the vandalised	-0.0055918545
+-1.5014615	was vandalised	-0.0055918545
+-1.3258865	site ,	-0.0055918545
+-1.2141333	internet ,	-0.0055918545
+-1.1253312	page ,	-0.0055918545
+-1.452288	security ,	-0.0055918545
+-1.3623533	sites ,	-0.0055918545
+-0.9336641	vulnerable ,	-0.0055918545
+-1.1253312	power ,	-0.0055918545
+-1.1253312	computers ,	-0.0055918545
+-0.9336641	releases ,	-0.0055918545
+-0.9336641	building ,	-0.0055918545
+-0.9336641	year ,	-0.0055918545
+-1.2664253	magazine ,	-0.0055918545
+-0.9336641	insecure ,	-0.0055918545
+-0.9336641	earlier ,	-0.0055918545
+-0.9336641	protection ,	-0.0055918545
+-0.9336641	hole ,	-0.0055918545
+-2.1074002	<s> but	-0.0055918545
+-1.9935919	, but	-0.0055918545
+-1.0526205	finance but	-0.0055918545
+-1.6108652	a security	-0.0055918545
+-1.2875904	the security	-0.0055918545
+-1.472462	on security	-0.0055918545
+-1.6398182	of security	-0.0055918545
+-1.7009773	, security	-0.0055918545
+-1.0029414	computer security	-0.0055918545
+-1.0029414	found security	-0.0055918545
+-1.2384136	multiple security	-0.0055918545
+-0.914273	security flaws	-0.0055918545
+-1.0607616	same flaws	-0.0055918545
+-1.635209	that allowed	-0.0055918545
+-0.9173245	to gain	-0.0055918545
+-1.3570608	gain entry	-0.0055918545
+-1.0679402	entry likely	-0.0055918545
+-1.0679402	likely exist	-0.0055918545
+-1.0526205	exist in	-0.0055918545
+-1.0526205	targeted in	-0.0055918545
+-1.0526205	previously in	-0.0055918545
+-1.5215604	in thousands	-0.0055918545
+-2.1074002	<s> other	-0.0055918545
+-1.8002257	and other	-0.0055918545
+-1.9223578	of other	-0.0055918545
+-1.5215604	other corporate	-0.0055918545
+-1.8938025	and government	-0.0055918545
+-0.9060266	web sites	-0.0055918545
+-1.8492529	of sites	-0.0055918545
+-1.0422196	different sites	-0.0055918545
+-1.3083375	some sites	-0.0055918545
+-1.9548777	security experts	-0.0055918545
+-1.5518905	'' said	-0.0055918545
+-1.3575577	officials said	-0.0055918545
+-1.0029414	experts said	-0.0055918545
+-1.2384136	power said	-0.0055918545
+-1.0029414	brandenburg said	-0.0055918545
+-0.26516384	elgan said	-0.0055918545
+-1.0029414	he said	-0.0055918545
+-1.2384136	spokeswoman said	-0.0055918545
+-2.2989094	the vast	-0.0055918545
+-1.0679402	vast majority	-0.0055918545
+-1.7105768	hackers are	-0.0055918545
+-1.4521155	flaws are	-0.0055918545
+-0.65751344	sites are	-0.0055918545
+-1.0422196	who are	-0.0055918545
+-1.7211148	are vulnerable	-0.0055918545
+-1.804649	'' richard	-0.0055918545
+-1.9248877	said richard	-0.0055918545
+-0.27080217	richard power	-0.0055918545
+-2.1332672	, senior	-0.0055918545
+-1.0679402	senior analyst	-0.0055918545
+-2.2989094	the computer	-0.0055918545
+-1.9548777	security institute	-0.0055918545
+-1.7319553	department should	-0.0055918545
+-1.0607616	should n't	-0.0055918545
+-1.0607616	do n't	-0.0055918545
+-1.3570608	n't be	-0.0055918545
+-1.0679402	be singled	-0.0055918545
+-1.804649	hackers out	-0.0055918545
+-1.0607616	singled out	-0.0055918545
+-2.2989094	the compromised	-0.0055918545
+-1.7530161	site was	-0.0055918545
+-1.6092745	magazine was	-0.0055918545
+-1.4793632	was not	-0.0055918545
+-1.581147	is not	-0.0055918545
+-1.0526205	does not	-0.0055918545
+-1.5215604	not connected	-0.0055918545
+-1.9448066	to any	-0.0055918545
+-1.0607616	any computers	-0.0055918545
+-1.0607616	military computers	-0.0055918545
+-1.3570608	computers containing	-0.0055918545
+-1.0679402	containing sensitive	-0.0055918545
+-1.0679402	sensitive files	-0.0055918545
+-1.7895639	site (	-0.0055918545
+-1.0679402	( http	-0.0055918545
+-1.0679402	http :	-0.0055918545
+-1.0679402	: //www.usdoj.gov	-0.0055918545
+-1.0679402	//www.usdoj.gov )	-0.0055918545
+-1.3570608	included copies	-0.0055918545
+-2.054394	of press	-0.0055918545
+-1.0679402	press releases	-0.0055918545
+-2.1332672	, speeches	-0.0055918545
+-1.5215604	other publicly	-0.0055918545
+-1.0679402	publicly available	-0.0055918545
+-1.0526205	available information	-0.0055918545
+-1.0526205	disseminates information	-0.0055918545
+-1.0526205	customer information	-0.0055918545
+-0.91826	security breach	-0.0055918545
+-1.8373344	web is	-0.0055918545
+-1.66853	`` is	-0.0055918545
+-1.0422196	theme is	-0.0055918545
+-1.0422196	battle is	-0.0055918545
+-1.635209	is just	-0.0055918545
+-1.0679402	just like	-0.0055918545
+-1.0679402	like graffiti	-0.0055918545
+-2.2989094	the outside	-0.0055918545
+-2.2989094	the building	-0.0055918545
+-1.8460373	'' spokesman	-0.0055918545
+-1.0679402	spokesman bert	-0.0055918545
+-1.0679402	bert brandenburg	-0.0055918545
+-1.5215604	other organisations	-0.0055918545
+-1.0607616	organisations have	-0.0055918545
+-1.0607616	would have	-0.0055918545
+-1.3431993	have been	-0.0055918545
+-1.0607616	had been	-0.0055918545
+-1.3570608	been targeted	-0.0055918545
+-2.2989094	the past	-0.0055918545
+-1.3570608	last year	-0.0055918545
+-2.2989094	the nation	-0.0055918545
+-2.054394	of islam	-0.0055918545
+-1.8460373	's million	-0.0055918545
+-1.0679402	million man	-0.0055918545
+-1.0679402	man march	-0.0055918545
+-1.8460373	hackers make	-0.0055918545
+-1.0679402	make 250,000	-0.0055918545
+-1.0679402	250,000 attempts	-0.0055918545
+-1.0679402	attempts annually	-0.0055918545
+-1.9448066	to break	-0.0055918545
+-1.0679402	break into	-0.0055918545
+-1.3570608	u.s. military	-0.0055918545
+-2.1332672	, according	-0.0055918545
+-1.9709543	a general	-0.0055918545
+-1.0679402	general accounting	-0.0055918545
+-1.0679402	accounting office	-0.0055918545
+-1.0679402	office report	-0.0055918545
+-2.1900904	<s> windows	-0.0055918545
+-1.6092745	by windows	-0.0055918545
+-1.3943061	the magazine	-0.0055918545
+-0.2702167	windows magazine	-0.0055918545
+-1.635209	magazine recently	-0.0055918545
+-1.0679402	recently found	-0.0055918545
+-1.9709543	a dozen	-0.0055918545
+-1.0679402	dozen major	-0.0055918545
+-1.0607616	major corporations	-0.0055918545
+-1.0607616	most corporations	-0.0055918545
+-1.635209	is spectacularly	-0.0055918545
+-1.0679402	spectacularly insecure	-0.0055918545
+-1.8460373	'' editor	-0.0055918545
+-1.0679402	editor mike	-0.0055918545
+-2.1900904	<s> elgan	-0.0055918545
+-1.0607616	mike elgan	-0.0055918545
+-2.2771816	<s> relying	-0.0055918545
+-1.9548777	security holes	-0.0055918545
+-1.635209	that had	-0.0055918545
+-1.3570608	been documented	-0.0055918545
+-1.0422196	documented by	-0.0055918545
+-1.0422196	motivated by	-0.0055918545
+-1.0422196	mentioned by	-0.0055918545
+-1.0422196	identified by	-0.0055918545
+-1.635209	by software	-0.0055918545
+-1.0679402	software manufacturers	-0.0055918545
+-1.0679402	manufacturers months	-0.0055918545
+-1.0679402	months earlier	-0.0055918545
+-1.8460373	's specialists	-0.0055918545
+-1.0679402	specialists were	-0.0055918545
+-1.0679402	were able	-0.0055918545
+-1.3570608	gain various	-0.0055918545
+-1.0679402	various degrees	-0.0055918545
+-2.054394	of unauthorised	-0.0055918545
+-2.2989094	the different	-0.0055918545
+-1.8460373	hackers who	-0.0055918545
+-1.7211148	are exploiting	-0.0055918545
+-2.1900904	<s> some	-0.0055918545
+-1.0607616	exploiting some	-0.0055918545
+-2.2989094	the same	-0.0055918545
+-1.7211148	are motivated	-0.0055918545
+-1.635209	by anger	-0.0055918545
+-1.0679402	anger over	-0.0055918545
+-2.2989094	the growth	-0.0055918545
+-1.8938025	and commercialization	-0.0055918545
+-1.9709543	a common	-0.0055918545
+-1.0679402	common theme	-0.0055918545
+-1.7211148	are fed	-0.0055918545
+-1.0679402	fed up	-0.0055918545
+-1.3570608	with non-hackers	-0.0055918545
+-1.8460373	'' he	-0.0055918545
+-2.2989094	the battle	-0.0055918545
+-1.5215604	not completely	-0.0055918545
+-1.0679402	completely hopeless	-0.0055918545
+-1.7530161	`` you	-0.0055918545
+-1.3431993	measures you	-0.0055918545
+-0.27080217	you can	-0.0055918545
+-1.3570608	can secure	-0.0055918545
+-1.7895639	`` there	-0.0055918545
+-1.8460373	's all	-0.0055918545
+-1.0679402	all kinds	-0.0055918545
+-1.9880937	of measures	-0.0055918545
+-1.9133515	security measures	-0.0055918545
+-1.3431993	n't take	-0.0055918545
+-1.3431993	can take	-0.0055918545
+-2.2771816	<s> most	-0.0055918545
+-1.8938025	and institutions	-0.0055918545
+-1.0679402	institutions do	-0.0055918545
+-1.8987875	to them	-0.0055918545
+-1.3431993	take them	-0.0055918545
+-1.3570608	them simply	-0.0055918545
+-1.0679402	simply because	-0.0055918545
+-1.0679402	because nothing	-0.0055918545
+-1.0679402	nothing bad	-0.0055918545
+-1.0679402	bad has	-0.0055918545
+-1.0679402	has happened	-0.0055918545
+-1.3570608	them yet	-0.0055918545
+-1.7211148	are using	-0.0055918545
+-1.5014615	but multiple	-0.0055918545
+-1.0607616	using multiple	-0.0055918545
+-1.3570608	multiple layers	-0.0055918545
+-2.1332672	, well	-0.0055918545
+-1.0679402	well beyond	-0.0055918545
+-1.0679402	beyond simple	-0.0055918545
+-1.0679402	simple password	-0.0055918545
+-1.0679402	password protection	-0.0055918545
+-1.9448066	to keep	-0.0055918545
+-2.2771816	<s> one	-0.0055918545
+-1.7895639	site mentioned	-0.0055918545
+-1.3380328	<s> fidelity	-0.0055918545
+-1.5014615	was fidelity	-0.0055918545
+-1.5215604	fidelity investments	-0.0055918545
+-1.7895639	site advertises	-0.0055918545
+-1.0679402	advertises its	-0.0055918545
+-1.0679402	its mutual	-0.0055918545
+-1.0679402	mutual funds	-0.0055918545
+-1.8938025	and disseminates	-0.0055918545
+-1.5329794	information about	-0.0055918545
+-1.0679402	about personal	-0.0055918545
+-1.0679402	personal finance	-0.0055918545
+-1.5215604	but does	-0.0055918545
+-1.5215604	not contain	-0.0055918545
+-1.0679402	contain confidential	-0.0055918545
+-1.0679402	confidential customer	-0.0055918545
+-1.5215604	officials immediately	-0.0055918545
+-1.0679402	immediately closed	-0.0055918545
+-2.2989094	the loophole	-0.0055918545
+-1.0679402	loophole identified	-0.0055918545
+-1.9166049	a spokeswoman	-0.0055918545
+-2.199428	the spokeswoman	-0.0055918545
+-1.3570608	measures previously	-0.0055918545
+-1.5215604	in place	-0.0055918545
+-1.0679402	place would	-0.0055918545
+-1.3570608	have prevented	-0.0055918545
+-1.3570608	breach despite	-0.0055918545
+-2.2989094	the hole	-0.0055918545
+-1.3570608	spokeswoman added	-0.0055918545
+
+\3-grams:
+-0.13014914	internet . </s>
+-0.13014914	hackers . </s>
+-0.13014914	hitler . </s>
+-0.13014914	vandalised . </s>
+-0.13014914	sites . </s>
+-0.061055172	said . </s>
+-0.13014914	institute . </s>
+-0.13391413	out . </s>
+-0.13014914	files . </s>
+-0.061894633	information . </s>
+-0.13014914	past . </s>
+-0.13014914	report . </s>
+-0.13014914	corporations . </s>
+-0.13014914	hopeless . </s>
+-0.13014914	take . </s>
+-0.13014914	investments . </s>
+-0.13014914	added . </s>
+-0.29969117	. '' </s>
+-1.398851	according to a
+-1.3638189	swastika and a
+-1.1304845	it with a
+-1.4407166	<s> `` a
+-1.4007015	sites of a
+-1.1304845	that included a
+-1.4400935	magazine , a
+-0.9389738	can secure a
+-0.9389738	have prevented a
+-1.6317489	<s> a break-in
+-0.98983353	a break-in at
+-1.2123276	unauthorised access at
+-1.384536	security flaws at
+-0.98983353	senior analyst at
+-1.2990192	break-in at the
+-1.2990192	access at the
+-1.2990192	analyst at the
+-0.8863067	week highlighted the
+-1.274661	access to the
+-1.3031614	plug on the
+-1.3031614	graffiti on the
+-1.3031614	non-hackers on the
+-0.8863067	diatribe labelled the
+-1.3093603	<s> `` the
+-1.3135289	outside of the
+-1.3135289	some of the
+-1.3135289	commercialization of the
+-0.8863067	quickly pulled the
+-1.3500993	year , the
+-1.3500993	earlier , the
+-1.3500993	hole , the
+-1.1237415	, but the
+-1.1237415	targeted in the
+-1.3340223	officials said the
+-1.1651518	identified by the
+-0.8863067	anger over the
+-0.8863067	immediately closed the
+-0.8863067	breach despite the
+-1.9787505	at the u.s.
+-1.0060145	break into u.s.
+-1.9217144	`` the justice
+-1.2276036	the u.s. justice
+-1.68816	to the department
+-1.9157538	<s> justice department
+-1.7319521	the justice department
+-1.7319521	u.s. justice department
+-1.4968754	the `` department
+-0.6318718	the department 's
+-0.6480378	justice department 's
+-1.3628999	the internet 's
+-0.9722101	of islam 's
+-1.412811	the magazine 's
+-0.9722101	`` there 's
+-1.3420527	<s> fidelity 's
+-1.6889017	department 's world
+-1.0122553	's world wide
+-1.4320565	secure a web
+-1.2977747	flaws at web
+-1.2582489	<s> the web
+-1.2582489	`` the web
+-1.4672582	department 's web
+-0.9552741	world wide web
+-0.9552741	and government web
+-0.9552741	the compromised web
+-0.9552741	man march web
+-1.524374	fidelity 's site
+-0.6272179	a web site
+-0.63915515	the web site
+-0.6272179	wide web site
+-0.6272179	compromised web site
+-0.6272179	march web site
+-0.9989209	<s> one site
+-1.7799954	web site last
+-1.2504263	site last week
+-1.0122553	last week highlighted
+-1.82614	highlighted the internet
+-2.1942043	on the internet
+-2.1942043	of the internet
+-1.5708023	internet 's continued
+-1.0122553	's continued vulnerability
+-0.9470475	continued vulnerability to
+-1.370434	allowed hackers to
+-1.1430982	gained access to
+-1.4637809	protection , to
+-0.9470475	not connected to
+-0.9470475	attempts annually to
+-0.9470475	, according to
+-0.9470475	were able to
+-0.9470475	has happened to
+-1.4652995	vulnerability to hackers
+-0.9636595	<s> unidentified hackers
+-1.4328537	<s> and hackers
+-1.3263355	is that hackers
+-0.9636595	that allowed hackers
+-1.5990584	elgan said hackers
+-0.9636595	to keep hackers
+-1.1624243	the internet .
+-1.209764	to hackers .
+-0.8792783	adolf hitler .
+-1.0409285	was vandalised .
+-1.2287251	different sites .
+-0.4344251	experts said .
+-0.4344251	power said .
+-0.4344251	brandenburg said .
+-0.4420452	elgan said .
+-0.4344251	he said .
+-0.4344251	spokeswoman said .
+-0.8792783	security institute .
+-0.25208673	hackers out .
+-0.25208673	singled out .
+-0.8792783	sensitive files .
+-0.4092104	available information .
+-0.4092104	customer information .
+-0.8792783	the past .
+-0.8792783	office report .
+-1.0409285	major corporations .
+-0.8792783	completely hopeless .
+-1.0409285	can take .
+-0.8792783	them yet .
+-0.8792783	fidelity investments .
+-0.8792783	spokeswoman added .
+-1.5708023	unidentified hackers gained
+-1.0060145	hackers gained access
+-1.0060145	of unauthorised access
+-1.6102082	's web page
+-1.2396827	the vandalised page
+-1.1975707	web page on
+-0.9809324	the plug on
+-0.9809324	like graffiti on
+-0.9809324	<s> relying on
+-0.9809324	with non-hackers on
+-1.4991667	page on august
+-1.0122553	on august 16
+-0.9552741	august 16 and
+-0.9552741	a swastika and
+-0.9552741	other corporate and
+-0.9552741	, speeches and
+-1.1560893	most corporations and
+-0.9552741	the growth and
+-0.9552741	mutual funds and
+-1.5951662	16 and replaced
+-1.0122553	and replaced it
+-1.0060145	replaced it with
+-1.0060145	fed up with
+-1.6317489	with a hate-filled
+-1.0122553	a hate-filled diatribe
+-1.0122553	hate-filled diatribe labelled
+-1.68816	labelled the ``
+-1.2772543	security breach ``
+-1.2963014	`` department of
+-0.9156161	a picture of
+-0.9156161	in thousands of
+-1.3550617	web sites of
+-0.9156161	vast majority of
+-0.9156161	included copies of
+-0.9156161	the outside of
+-0.9156161	the nation of
+-0.9156161	various degrees of
+-1.094703	exploiting some of
+-0.9156161	and commercialization of
+-0.9156161	all kinds of
+-0.9156161	multiple layers of
+-1.6674988	department of injustice
+-1.1993642	out . ''
+-1.1574858	yet . ''
+-0.9989209	of injustice ''
+-0.85052526	site , ''
+-0.85052526	internet , ''
+-0.85052526	vulnerable , ''
+-0.85052526	building , ''
+-0.85052526	insecure , ''
+-1.4946244	injustice '' that
+-1.384536	security flaws that
+-1.3892268	theme is that
+-0.98983353	security holes that
+-1.4310155	'' that included
+-1.0060145	//www.usdoj.gov ) included
+-1.6317489	included a swastika
+-1.6317489	and a picture
+-1.6674988	picture of adolf
+-1.0122553	of adolf hitler
+-1.4859829	<s> justice officials
+-1.6020886	justice department officials
+-1.4074452	<s> fidelity officials
+-1.371617	justice officials quickly
+-1.0122553	officials quickly pulled
+-1.7507191	pulled the plug
+-1.9787505	on the vandalised
+-1.4258538	site was vandalised
+-1.3969431	web site ,
+-1.1900465	the internet ,
+-1.0616463	vandalised page ,
+-1.3220598	of security ,
+-1.3075334	web sites ,
+-0.89345074	are vulnerable ,
+-1.0949048	richard power ,
+-1.0616463	military computers ,
+-0.89345074	press releases ,
+-0.89345074	the building ,
+-0.89345074	last year ,
+-1.2229291	the magazine ,
+-0.89345074	spectacularly insecure ,
+-0.89345074	months earlier ,
+-0.89345074	password protection ,
+-0.89345074	the hole ,
+-1.6418368	page , but
+-0.9989209	personal finance but
+-1.4320565	prevented a security
+-1.2582489	<s> the security
+-1.1958272	but the security
+-1.3367231	relying on security
+-1.4507728	layers of security
+-1.4888352	sites , security
+-0.9552741	the computer security
+-0.9552741	recently found security
+-1.1560893	but multiple security
+-0.897359	the security flaws
+-0.8759622	found security flaws
+-1.0060145	the same flaws
+-1.4478228	flaws that allowed
+-0.87871933	hackers to gain
+-0.87871933	able to gain
+-1.3029244	to gain entry
+-1.0122553	gain entry likely
+-1.0122553	entry likely exist
+-0.9989209	likely exist in
+-0.9989209	been targeted in
+-0.9989209	measures previously in
+-1.371617	exist in thousands
+-1.5462043	speeches and other
+-1.6091045	thousands of other
+-1.371617	of other corporate
+-1.5951662	corporate and government
+-0.8685019	at web sites
+-0.8685019	government web sites
+-1.5724838	majority of sites
+-0.98983353	the different sites
+-1.2123276	<s> some sites
+-1.6244074	, security experts
+-1.5191159	, '' said
+-1.2508099	department officials said
+-0.9552741	security experts said
+-1.1978266	richard power said
+-0.9552741	bert brandenburg said
+-0.2605136	<s> elgan said
+-0.2605136	mike elgan said
+-0.9552741	'' he said
+-1.1560893	a spokeswoman said
+-2.035053	`` the vast
+-1.0122553	the vast majority
+-1.4946244	that hackers are
+-1.3219335	same flaws are
+-0.6382521	of sites are
+-0.6382521	some sites are
+-0.98983353	hackers who are
+-1.599303	sites are vulnerable
+-1.7438064	, '' richard
+-1.6103168	'' said richard
+-0.26601973	'' richard power
+-0.26601973	said richard power
+-1.6977427	power , senior
+-1.0122553	, senior analyst
+-2.035053	at the computer
+-1.6244074	computer security institute
+-1.6465749	justice department should
+-1.0060145	department should n't
+-1.0060145	institutions do n't
+-1.2504263	should n't be
+-1.0122553	n't be singled
+-1.5486318	keep hackers out
+-1.0060145	be singled out
+-1.7507191	said the compromised
+-0.6747333	web site was
+-1.513284	windows magazine was
+-1.4074452	site was not
+-1.4123914	battle is not
+-0.9989209	but does not
+-1.371617	was not connected
+-1.619733	connected to any
+-1.0060145	to any computers
+-1.0060145	u.s. military computers
+-1.2504263	any computers containing
+-1.0122553	computers containing sensitive
+-1.0122553	containing sensitive files
+-1.810704	web site (
+-1.0122553	site ( http
+-1.0122553	( http :
+-1.0122553	http : //www.usdoj.gov
+-1.0122553	: //www.usdoj.gov )
+-1.2504263	) included copies
+-1.6674988	copies of press
+-1.0122553	of press releases
+-1.6977427	releases , speeches
+-1.371617	and other publicly
+-1.0122553	other publicly available
+-0.9989209	publicly available information
+-0.9989209	and disseminates information
+-0.9989209	confidential customer information
+-0.87956417	a security breach
+-0.90114367	the security breach
+-1.6828998	the web is
+-1.4688935	breach `` is
+-0.98983353	common theme is
+-0.98983353	the battle is
+-1.4478228	`` is just
+-1.0122553	is just like
+-1.0122553	just like graffiti
+-2.035053	on the outside
+-2.035053	of the building
+-1.7790784	, '' spokesman
+-1.0122553	'' spokesman bert
+-1.0122553	spokesman bert brandenburg
+-1.371617	<s> other organisations
+-1.0060145	other organisations have
+-1.0060145	place would have
+-1.2396827	organisations have been
+-1.0060145	that had been
+-1.2504263	have been targeted
+-1.7507191	in the past
+-1.2504263	<s> last year
+-2.035053	, the nation
+-1.6674988	nation of islam
+-1.5708023	islam 's million
+-1.0122553	's million man
+-1.0122553	million man march
+-1.5708023	and hackers make
+-1.0122553	hackers make 250,000
+-1.0122553	make 250,000 attempts
+-1.0122553	250,000 attempts annually
+-1.619733	annually to break
+-1.0122553	to break into
+-1.2504263	into u.s. military
+-1.6977427	computers , according
+-1.6317489	to a general
+-1.0122553	a general accounting
+-1.0122553	general accounting office
+-1.0122553	accounting office report
+-1.4310155	mentioned by windows
+-1.3557144	, the magazine
+-1.2789048	by the magazine
+-0.26544806	<s> windows magazine
+-0.26544806	by windows magazine
+-1.5336802	windows magazine recently
+-1.0122553	magazine recently found
+-1.6317489	of a dozen
+-1.0122553	a dozen major
+-1.0060145	dozen major corporations
+-1.0060145	<s> most corporations
+-1.4478228	web is spectacularly
+-1.0122553	is spectacularly insecure
+-1.7790784	, '' editor
+-1.0122553	'' editor mike
+-1.0060145	editor mike elgan
+-1.6244074	on security holes
+-1.4478228	holes that had
+-1.2504263	had been documented
+-0.98983353	been documented by
+-0.98983353	are motivated by
+-0.98983353	site mentioned by
+-0.98983353	loophole identified by
+-1.4478228	documented by software
+-1.0122553	by software manufacturers
+-1.0122553	software manufacturers months
+-1.0122553	manufacturers months earlier
+-1.5708023	magazine 's specialists
+-1.0122553	's specialists were
+-1.0122553	specialists were able
+-1.3029244	to gain various
+-1.0122553	gain various degrees
+-1.6674988	degrees of unauthorised
+-2.035053	at the different
+-1.5708023	said hackers who
+-1.5009208	who are exploiting
+-1.0060145	are exploiting some
+-2.035053	of the same
+-1.5009208	flaws are motivated
+-1.4478228	motivated by anger
+-1.0122553	by anger over
+-1.7507191	over the growth
+-1.5951662	growth and commercialization
+-1.6317489	`` a common
+-1.0122553	a common theme
+-1.5009208	hackers are fed
+-1.0122553	are fed up
+-1.2504263	up with non-hackers
+-1.7790784	, '' he
+-2.035053	<s> the battle
+-1.371617	is not completely
+-1.0122553	not completely hopeless
+-1.7059978	<s> `` you
+-1.2396827	of measures you
+-0.26601973	`` you can
+-0.26601973	measures you can
+-1.3029244	you can secure
+-1.7384338	<s> `` there
+-1.5708023	there 's all
+-1.0122553	's all kinds
+-1.6394134	kinds of measures
+-1.604759	multiple security measures
+-1.2396827	do n't take
+-1.2908194	you can take
+-1.5951662	corporations and institutions
+-1.0122553	and institutions do
+-1.5976332	happened to them
+-1.2396827	n't take them
+-1.2504263	take them simply
+-1.0122553	them simply because
+-1.0122553	simply because nothing
+-1.0122553	because nothing bad
+-1.0122553	nothing bad has
+-1.0122553	bad has happened
+-1.2504263	to them yet
+-1.599303	sites are using
+-1.357471	<s> but multiple
+-1.0060145	are using multiple
+-1.2504263	using multiple layers
+-1.6977427	security , well
+-1.0122553	, well beyond
+-1.0122553	well beyond simple
+-1.0122553	beyond simple password
+-1.0122553	simple password protection
+-1.619733	, to keep
+-1.5403076	one site mentioned
+-1.357471	magazine was fidelity
+-1.371617	was fidelity investments
+-1.5403076	's site advertises
+-1.0122553	site advertises its
+-1.0122553	advertises its mutual
+-1.0122553	its mutual funds
+-1.5951662	funds and disseminates
+-1.3795669	disseminates information about
+-1.0122553	information about personal
+-1.0122553	about personal finance
+-1.371617	finance but does
+-1.371617	does not contain
+-1.0122553	not contain confidential
+-1.0122553	contain confidential customer
+-1.371617	fidelity officials immediately
+-1.0122553	officials immediately closed
+-1.7507191	closed the loophole
+-1.0122553	the loophole identified
+-1.6063341	, a spokeswoman
+-1.9787505	, the spokeswoman
+-1.2504263	security measures previously
+-1.371617	previously in place
+-1.0122553	in place would
+-1.2504263	would have prevented
+-1.3029244	security breach despite
+-1.7507191	despite the hole
+-1.2504263	the spokeswoman added
+
+\end\

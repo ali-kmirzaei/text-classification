@@ -1,0 +1,51 @@
+import nltk
+from glob import glob
+import kenlm
+import math
+
+models = [
+    kenlm.LanguageModel('models/AaronPressman.arpa'),
+    kenlm.LanguageModel('models/AlanCrosby.arpa'),
+    kenlm.LanguageModel('models/AlexanderSmith.arpa'),
+    kenlm.LanguageModel('models/BenjaminKangLim.arpa'),
+    kenlm.LanguageModel('models/BernardHickey.arpa'),
+    kenlm.LanguageModel('models/BradDorfman.arpa'),
+    kenlm.LanguageModel('models/DarrenSchuettler.arpa'),
+    kenlm.LanguageModel('models/DavidLawder.arpa')
+]
+authors = ['AaronPressman', 'AlanCrosby', 'AlexanderSmith', 'BenjaminKangLim', 'BernardHickey', 'BradDorfman', 'DarrenSchuettler', 'DavidLawder']
+fns = [0 for i in range(8)]
+fps = [0 for i in range(8)]
+print('______________________________________________________________________________________________________________')
+
+t = 0
+f = 0
+dirs = glob('dataset/testPR_Recall/*')
+for idir in dirs:
+    files = glob(idir+'/*')
+    real_author = idir[22:]
+    for ifile in files:
+        mini = math.inf
+        pred_author = ''
+        file = open(ifile, 'r')
+        sent = file.read()
+        for i in range(len(models)):
+            model = models[i]
+            sum_inv_logs = -1 * sum(score for score, _, _ in model.full_scores(sent))
+            n = len(list(model.full_scores(sent)))
+            perplexity = math.pow(10.0, sum_inv_logs / n)
+            if perplexity < mini:
+                pred_author = authors[i]
+                mini = perplexity
+        
+        if pred_author == real_author:
+            t += 1
+        else:
+            f += 1
+        # print(pred_author)
+print(t, f)
+
+acc = t/(t+f)
+print(acc)
+# recall = t/(t+)
+
